@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayin223&label=Profile%20views&color=0e75b6&style=flat" alt="ayin223" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **Email: ayingree@gmail.com Number: +233545059166**
 
